@@ -57,15 +57,6 @@ Rejected
 
 Pending
 
-🛠️ Tech Stack (customizable)
-
-Language: (Python / Java / C# / PHP)
-
-Backend: OOP or MVC structure
-
-Database: MySQL / PostgreSQL / SQLite
-
-UI: Console / Desktop / Web
 
 Tell me your tech stack and I can tailor this section specifically.
 
