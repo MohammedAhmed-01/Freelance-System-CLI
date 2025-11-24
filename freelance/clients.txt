@@ -1,0 +1,9 @@
+[
+  {
+    "user_id": 1,
+    "name": "dfbd",
+    "email": "gfb",
+    "password": "efsde",
+    "job_posts": []
+  }
+]

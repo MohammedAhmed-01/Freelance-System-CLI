@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": 1,
+    "name": "moham",
+    "email": "msxk",
+    "password": "888",
+    "phone_number": "01154111",
+    "national_id": "55",
+    "proposals": []
+  },
+  {
+    "user_id": 2,
+    "name": "fcgrtfg",
+    "email": "fgb",
+    "password": "df",
+    "phone_number": "515",
+    "national_id": "515",
+    "proposals": []
+  }
+]
